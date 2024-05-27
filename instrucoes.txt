@@ -6,3 +6,7 @@ Instruções:
 Analise o código fornecido que faz uma chamada a uma API pública.
 Identifique e corrija os erros para que o código funcione corretamente.
 Forneça uma breve explicação das correções feitas.
+
+
+Forneça o código corrigido em um arquivo script_corrigido.py.
+Inclua um arquivo README.md com uma breve explicação das correções feitas e como executar o script.
