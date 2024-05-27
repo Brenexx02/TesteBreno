@@ -1,0 +1,8 @@
+Descrição do Teste
+Objetivo: Identifique e corrija os erros em um código Python que consome uma API pública.
+
+Instruções:
+
+Analise o código fornecido que faz uma chamada a uma API pública.
+Identifique e corrija os erros para que o código funcione corretamente.
+Forneça uma breve explicação das correções feitas.
