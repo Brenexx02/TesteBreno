@@ -6,3 +6,5 @@ Identifique os erros no código fornecido abaixo.
 Corrija os erros criando um novo arquivo chamado corrected_code.js.
 Adicione o arquivo corrigido ao repositório GitHub.
 Crie um arquivo README.md no repositório descrevendo os erros identificados e as correções feitas.
+O candidato terá 30 minutos para completar esta atividade.
+A utilização de inteligência artificial para completar este teste resultará em desclassificação automática.
