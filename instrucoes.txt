@@ -1,12 +1,8 @@
-Descrição do Teste
-Objetivo: Identifique e corrija os erros em um código Python que consome uma API pública.
+Objetivo:
+Identificar e corrigir múltiplos erros em um código JavaScript que consome uma API, manipula o DOM, e melhora o tratamento de erros. Documentar as alterações feitas em um arquivo README.md.
 
 Instruções:
-
-Analise o código fornecido que faz uma chamada a uma API pública.
-Identifique e corrija os erros para que o código funcione corretamente.
-Forneça uma breve explicação das correções feitas.
-
-
-Forneça o código corrigido em um arquivo script_corrigido.py.
-Inclua um arquivo README.md com uma breve explicação das correções feitas e como executar o script.
+Identifique os erros no código fornecido abaixo.
+Corrija os erros criando um novo arquivo chamado corrected_code.js.
+Adicione o arquivo corrigido ao repositório GitHub.
+Crie um arquivo README.md no repositório descrevendo os erros identificados e as correções feitas.
