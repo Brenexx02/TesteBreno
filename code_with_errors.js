@@ -6,7 +6,7 @@ const fetchData = async () => {
     if (!response.ok) {
       throw new Error('Erro na rede');
     }
-    const data = response.json(); // Erro aqui: falta o await
+    const data = await response.json(); // Erro aqui: falta o await
     renderData(data);
   } catch (error) {
     showError(error);
